@@ -1,0 +1,6 @@
+country=US
+ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
+network={
+    ssid="My_Wifi"
+    psk="password_12345"
+}
